@@ -98,7 +98,7 @@ As an AI Product Manager, completing a hands-on data engineering project like th
 
 Here is a strategic playbook for your next technical steps, how to showcase this on LinkedIn, and how to start structuring your AI PM portfolio.
 
-1. What to Do Next (The AI Transition)
+Next (The AI Transition)
 Right now, you have built Descriptive Analytics (what happened in the past). To move this into the AI realm, you should transition to Predictive or Generative features. Choose one of these next steps to add to your coffee shop project:
 
 The Predictive Step (Machine Learning): Build a model to forecast tomorrow's inventory needs. For example, use a simple linear regression model in Python (using scikit-learn) to predict how many croissants to bake based on the day of the week and historical sales.
